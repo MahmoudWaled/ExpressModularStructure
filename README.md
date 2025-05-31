@@ -2,4 +2,4 @@
 
 npx degit https://github.com/MahmoudWaled/ExpressModularStructure.git myapp
 cd myapp
-npm install
+npm install 
